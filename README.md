@@ -10,3 +10,5 @@ When tasks are completed, hitting the checkbox will move the task and date finis
 The app focuses on three colours: green, yellow, and red. Usually, the task will be green. When the date enters the urgency range, the task will turn yellow. When the end date passes, the task turns red.
 
 Tasks are ordered by the next due.
+
+Reminder system, like [this](https://www.quora.com/What-is-the-best-study-method/answer/Ahmad-Ali-14?srid=timW&share=1)
